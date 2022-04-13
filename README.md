@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jucelio Amaral
-- 👨‍💻 I have 5 years of experience in .Net development.
-- 👀 I have 12 years of experience in IT.
+- 👨‍💻 I have 8 years of experience in .Net development.
+- 👀 I have 15 years of experience in IT.
 - 👀 I’m interested in develop system and learning each time more.
 - 💻 I'm a Back-end developer. I've been working with dotnet / dotnet core.
 - 🌱 I’m currently learning each more Asp Net C#, Front end and Database.
